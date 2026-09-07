@@ -122,7 +122,7 @@ class AboutPage extends StatelessWidget {
           children: [
             Text('Legal Notices', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
             SizedBox(height: 16),
-            Text('© 2025 Global Safety Solutions. All rights reserved. SafePath Connect and its logo are registered trademarks.'),
+            Text('© 2025 Global Safety Solutions. All rights reserved. SafePath Connect and its logo are registered trademarks'),
           ],
         ),
       ),
